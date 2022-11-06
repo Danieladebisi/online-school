@@ -14,6 +14,8 @@ import dj_database_url
 from pathlib import Path
 import os
 import django_heroku
+# from drf_yasg.views import get_schema_view
+# from drf_yasg import openapi
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
